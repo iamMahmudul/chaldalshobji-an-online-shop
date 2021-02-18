@@ -1,5 +1,5 @@
 # chaldalshobji-an-online-shop
-This is an ecommerce website based on grocery items. It is developed by using object oriented PHP and MySql. The functionalities of the user panel are:
+This is a fully responsive ecommerce website based on grocery items. It is developed by using object oriented PHP and MySql. The functionalities of the user panel are:
 
 * User Registration and User Login system
 * Search functionality
