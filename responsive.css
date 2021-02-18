@@ -1,0 +1,563 @@
+@media screen and (max-width:480px){
+
+.topdata ul li a {
+	float: left;
+	margin: 5px;
+	color: #fff;
+	padding: 4px;
+	margin-left: -2px;
+	line-height: 28px;
+	font-size: 10px;
+	padding: 0px;
+	background: #6BC435;
+	width: 44px;
+}
+
+.top {
+	height: 40px;
+	background: #51AA1B;
+	margin-top: -16px;
+}
+
+.logo a {
+	font-size: 21px;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	margin-left: 90px;
+	text-transform: uppercase;
+	line-height: 15px;
+}
+.headsection {
+	background: #2D3D54;
+
+}
+
+.searchbox input[type="text"] {
+	width: 270px;
+	padding: 17px;
+	margin-left: -10px;
+	margin-top: 4px;
+	height: 40px;
+}
+
+.cart{
+	margin-left: 65px;
+}
+.cart a {
+	font-size: 16px;
+	color: #fff;
+	line-height: 45px;
+	font-weight: bold;
+	margin-left: -7px;
+}
+
+.navsection {
+    padding: 0px;
+    border-top: 1px solid #dddde0;
+}
+
+.catlist {
+	margin-top: 0px;
+	background: #F9F9F9;
+}
+
+.title h1 {
+	font-size: 19px;
+	font-weight: bold;
+	color: #80444E;
+	border-bottom: 1px solid #ddd;
+	padding: 0px;
+	line-height: 65px;
+	margin-left: 20px;
+}
+
+.demoimg img {
+	width: 815px;
+	height: 100px;
+	margin-left: -67px;
+}
+
+.contact{
+	padding: 0px;
+}
+
+.form textarea {
+	margin-top: 30px;
+	border: 1px solid #ddd;
+	width: 320px;
+	height: 94px;
+}
+
+.total-filter {
+	margin-left: 0px;
+}
+
+.productshead {
+	/* background: #2D3D54; */
+	background: #E4EFEF;
+	width: 305px;
+	height: 75px;
+	margin-top: 30px;
+}
+
+.advimage img {
+	margin-left: -31px;
+	width: 410px;
+	height: 150px;
+}
+
+.advimage2 img {
+	margin-left: ;
+	width: 0px;
+}
+
+.login{
+	height:350px;
+}
+.register{
+	height: 375px;
+}
+.register input[type="text"], input[type="email"], .register input[type="password"]{
+    margin-top: 10px;
+    padding: 8px;
+    margin-left: 14px;
+    width: 155px;
+    line-height: 20px;
+    border: 1px solid #D7BE96;
+    border-radius: 2px;
+    box-shadow: 1px 0px 1px 0px;
+}
+.footersec {
+	margin-top: 230px;
+	border-top: 1px solid #ddd;
+	padding: 24px;
+}
+.header h4 {
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-size: 27px;
+	color: crimson;
+	text-transform: ;
+	font-weight: bold;
+}
+
+.productspreview h2 {
+	color: crimson;
+	text-transform: ;
+	font-size: 20px;
+	margin-left: -40px;
+	font-weight: bold;
+	width: 250px;
+}
+
+.price p {
+	font-weight: bold;
+	color: #80444E;
+	margin-left: -40px;
+	line-height: 12px;
+}
+
+.add-cart input[type="number"] {
+	width: 140px;
+	padding: 8px;
+	margin-top: 10px;
+	border: 1px solid #ddd;
+	font-size: 14px;
+	box-shadow: 0px 0px 2px 0px;
+	border-radius: 5px;
+	margin-left: -40px;
+}
+
+.mybutton {
+	float: left;
+	margin-right: 32px;
+	margin-left: -42px;
+	margin-top: -14px;
+}
+
+.tabmenu {
+	margin-left: -30px;
+	margin-bottom: 25px;
+	margin-top: -67px;
+}
+
+.cdetails a {
+	margin-left: 75px;
+	background: #E96125;
+	color: #fff;
+	padding: 7px;
+	line-height: 55px;
+	font-weight: normal;
+	font-size: 12px;
+}
+.offpayment a {
+	background: #f0f0f0;
+	padding: 12px;
+	margin-left: -64px;
+	border: 1px solid #ddd;
+	color: #80444E;
+	font-weight: bold;
+	line-height: 84px;
+}
+.onpayment a {
+	background: #f0f0f0;
+	padding: 12px;
+	margin-left: -86px;
+	border: 1px solid #ddd;
+	color: #80444E;
+	font-weight: bold;
+	line-height: 75px;
+}
+.conshop a {
+	background: #f0f0f0;
+	padding: 12px;
+	margin-left: -86px;
+	border: 1px solid #ddd;
+	color: #80444E;
+	font-weight: bold;
+}
+}
+
+
+
+
+@media screen and (max-width:720px){
+
+.topdata ul li a {
+	float: left;
+	margin: 5px;
+	color: #fff;
+	padding: 4px;
+	margin-left: -2px;
+	line-height: 28px;
+	font-size: 10px;
+	padding: 0px;
+	background: #6BC435;
+	width: 44px;
+}
+
+.top {
+	height: 40px;
+	background: #51AA1B;
+	margin-top: -16px;
+}
+
+.logo a {
+	font-size: 21px;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	margin-left: 90px;
+	text-transform: uppercase;
+	line-height: 15px;
+}
+.headsection {
+	background: #2D3D54;
+
+}
+
+.searchbox input[type="text"] {
+	width: 270px;
+	padding: 17px;
+	margin-left: -10px;
+	margin-top: 4px;
+	height: 40px;
+}
+
+.cart{
+	margin-left: 65px;
+}
+.cart a {
+	font-size: 16px;
+	color: #fff;
+	line-height: 45px;
+	font-weight: bold;
+	margin-left: -7px;
+}
+
+.navsection {
+    padding: 0px;
+    border-top: 1px solid #dddde0;
+}
+
+.catlist {
+	margin-top: 0px;
+	background: #F9F9F9;
+}
+
+.title h1 {
+	font-size: 19px;
+	font-weight: bold;
+	color: #80444E;
+	border-bottom: 1px solid #ddd;
+	padding: 0px;
+	line-height: 65px;
+	margin-left: 20px;
+}
+
+.demoimg img {
+	width: 815px;
+	height: 100px;
+	margin-left: -67px;
+}
+
+.contact{
+	padding: 0px;
+}
+
+.form textarea {
+	margin-top: 30px;
+	border: 1px solid #ddd;
+	width: 320px;
+	height: 94px;
+}
+
+.total-filter {
+	margin-left: 0px;
+}
+
+.productshead {
+	/* background: #2D3D54; */
+	background: #E4EFEF;
+	width: 305px;
+	height: 75px;
+	margin-top: 30px;
+}
+
+.advimage img {
+	margin-left: -31px;
+	width: 410px;
+	height: 150px;
+}
+
+.advimage2 img {
+	margin-left: ;
+	width: 0px;
+}
+
+.login{
+	height:350px;
+}
+.register{
+	height: 375px;
+}
+.register input[type="text"], input[type="email"], .register input[type="password"]{
+    margin-top: 10px;
+    padding: 8px;
+    margin-left: 14px;
+    width: 155px;
+    line-height: 20px;
+    border: 1px solid #D7BE96;
+    border-radius: 2px;
+    box-shadow: 1px 0px 1px 0px;
+}
+.footersec {
+	margin-top: 230px;
+	border-top: 1px solid #ddd;
+	padding: 24px;
+}
+.header h4 {
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-size: 27px;
+	color: crimson;
+	text-transform: ;
+	font-weight: bold;
+}
+
+.productspreview h2 {
+	color: crimson;
+	text-transform: ;
+	font-size: 20px;
+	margin-left: -40px;
+	font-weight: bold;
+	width: 250px;
+}
+
+.price p {
+	font-weight: bold;
+	color: #80444E;
+	margin-left: -40px;
+	line-height: 12px;
+}
+
+.add-cart input[type="number"] {
+	width: 140px;
+	padding: 8px;
+	margin-top: 10px;
+	border: 1px solid #ddd;
+	font-size: 14px;
+	box-shadow: 0px 0px 2px 0px;
+	border-radius: 5px;
+	margin-left: -40px;
+}
+
+.mybutton {
+	float: left;
+	margin-right: 32px;
+	margin-left: -42px;
+	margin-top: -14px;
+}
+
+.tabmenu {
+	margin-left: -30px;
+	margin-bottom: 25px;
+	margin-top: -67px;
+}
+
+.cdetails a {
+	margin-left: 75px;
+	background: #E96125;
+	color: #fff;
+	padding: 7px;
+	line-height: 55px;
+	font-weight: normal;
+	font-size: 12px;
+}
+}
+
+@media screen and (max-width:360px){
+
+.topdata ul li a {
+	float: left;
+	margin: 5px;
+	color: #fff;
+	padding: 4px;
+	margin-left: -2px;
+	line-height: 28px;
+	font-size: 10px;
+	padding: 0px;
+	background: #6BC435;
+	width: 44px;
+}
+
+.top {
+	height: 40px;
+	background: #51AA1B;
+	margin-top: -16px;
+}
+
+.logo a {
+	font-size: 21px;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+	margin-left: 90px;
+	text-transform: uppercase;
+	line-height: 15px;
+}
+.headsection {
+	background: #2D3D54;
+
+}
+
+.searchbox input[type="text"] {
+	width: 270px;
+	padding: 17px;
+	margin-left: -10px;
+	margin-top: 4px;
+	height: 40px;
+}
+
+.cart{
+	margin-left: 65px;
+}
+.cart a {
+	font-size: 16px;
+	color: #fff;
+	line-height: 45px;
+	font-weight: bold;
+	margin-left: -7px;
+}
+
+.navsection {
+    padding: 0px;
+    border-top: 1px solid #dddde0;
+}
+
+.catlist {
+	margin-top: 0px;
+	background: #F9F9F9;
+}
+
+.title h1 {
+	font-size: 19px;
+	font-weight: bold;
+	color: #80444E;
+	border-bottom: 1px solid #ddd;
+	padding: 0px;
+	line-height: 65px;
+	margin-left: 20px;
+}
+
+.demoimg img {
+	width: 815px;
+	height: 100px;
+	margin-left: -67px;
+}
+
+.contact{
+	padding: 0px;
+}
+
+.form textarea {
+	margin-top: 30px;
+	border: 1px solid #ddd;
+	width: 320px;
+	height: 94px;
+}
+
+.total-filter {
+	margin-left: 0px;
+}
+
+.productshead {
+	/* background: #2D3D54; */
+	background: #E4EFEF;
+	width: 305px;
+	height: 75px;
+	margin-top: 30px;
+}
+
+.advimage img {
+	margin-left: -31px;
+	width: 410px;
+	height: 150px;
+}
+
+.advimage2 img {
+	margin-left: ;
+	width: 0px;
+}
+
+.login{
+	height:350px;
+}
+.register{
+	height: 375px;
+}
+.register input[type="text"], input[type="email"], .register input[type="password"]{
+    margin-top: 10px;
+    padding: 8px;
+    margin-left: 14px;
+    width: 155px;
+    line-height: 20px;
+    border: 1px solid #D7BE96;
+    border-radius: 2px;
+    box-shadow: 1px 0px 1px 0px;
+}
+.footersec {
+	margin-top: 230px;
+	border-top: 1px solid #ddd;
+	padding: 24px;
+}
+.header h4 {
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-size: 27px;
+	color: crimson;
+	text-transform: ;
+	font-weight: bold;
+}
+}
